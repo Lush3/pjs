@@ -1,6 +1,6 @@
 
 module.exports = {
-  "port": 8081,
+  "port": 3000,
   "staticFilesDirectory": "htdocs",
   "pathlist": [
     "pjssamples"
